@@ -21,9 +21,7 @@ In this project, I created a simple interactive website using **PartyRock (by AW
 
 ##  Live Demo
 
-👉 [Click here to view the PartyRock App]([https://partyrock.aws/your-link-here](https://partyrock.aws/u/kevinkamdem/T90kjMLJq/IA-Insight-%3A-Comprendre-les-Fondements-de-l'Intelligence-Artificielle-Generative))
-
-*Replace the above link with your actual PartyRock project URL*
+👉 [Click here : https://partyrock.aws/u/kevinkamdem/T90kjMLJq/IA-Insight-%3A-Comprendre-les-Fondements-de-l'Intelligence-Artificielle-Generative
 
 ---
 
